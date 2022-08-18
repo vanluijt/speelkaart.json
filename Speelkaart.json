@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "kleur": "Blauw",
+        "afbeelding": ["Dame", "Tien", "Aas"]
+    },
+    {
+        "id": 2,
+        "kleur": "Rood",
+        "afbeelding": ["Koning", "Negen", "Aas", "Twee"]
+    },
+    {
+        "id": 3,
+        "kleur": "Groen",
+        "afbeelding": ["Vier", "Zeven", "Drie", "Acht", "Zes"]
+    }
+]
+
+
